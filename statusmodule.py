@@ -4,7 +4,7 @@
 
 #!/usr/bin/python3
 
-def getStatus():
+def getLinuxStatus():
     statusData = {}
 
     # Computer upload and download speed

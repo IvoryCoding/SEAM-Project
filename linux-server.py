@@ -21,7 +21,7 @@ def processModule():
 def serverStatusModule():
     try:
         with open("server-status.json", "w", encoding="utf-8") as f:
-            json.dump(statusmodule.getStatus(), f, ensure_ascii=False, indent=4)
+            json.dump(statusmodule.getLinuxStatus(), f, ensure_ascii=False, indent=4)
     except:
         print("Status module failed")
 
