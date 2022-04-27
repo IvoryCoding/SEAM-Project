@@ -1,21 +1,21 @@
 [
     {
-        "name": "pycharm64.exe",
-        "pid": 30024,
-        "cpu_percent": 0.0,
-        "vms": 1857.99609375
-    },
-    {
         "name": "Discord.exe",
         "pid": 20296,
         "cpu_percent": 0.0,
-        "vms": 419.90234375
+        "vms": 420.55859375
+    },
+    {
+        "name": "MsMpEng.exe",
+        "pid": 8440,
+        "cpu_percent": 0.0,
+        "vms": 324.22265625
     },
     {
         "name": "Teams.exe",
         "pid": 21684,
         "cpu_percent": 0.0,
-        "vms": 321.171875
+        "vms": 321.0703125
     },
     {
         "name": "chrome.exe",
@@ -24,22 +24,16 @@
         "vms": 316.32421875
     },
     {
-        "name": "MsMpEng.exe",
-        "pid": 8440,
-        "cpu_percent": 0.0,
-        "vms": 313.69921875
-    },
-    {
         "name": "chrome.exe",
         "pid": 25084,
         "cpu_percent": 0.0,
-        "vms": 237.05078125
+        "vms": 234.625
     },
     {
         "name": "explorer.exe",
         "pid": 2676,
         "cpu_percent": 0.0,
-        "vms": 212.0703125
+        "vms": 214.23046875
     },
     {
         "name": "EpicGamesLauncher.exe",
@@ -48,22 +42,28 @@
         "vms": 211.67578125
     },
     {
+        "name": "Code.exe",
+        "pid": 22080,
+        "cpu_percent": 0.0,
+        "vms": 199.27734375
+    },
+    {
         "name": "chrome.exe",
         "pid": 7196,
         "cpu_percent": 0.0,
-        "vms": 196.15625
+        "vms": 196.23046875
     },
     {
         "name": "Teams.exe",
         "pid": 11184,
         "cpu_percent": 0.0,
-        "vms": 180.19921875
+        "vms": 179.90625
     },
     {
-        "name": "dwm.exe",
-        "pid": 2008,
+        "name": "Code.exe",
+        "pid": 6228,
         "cpu_percent": 0.0,
-        "vms": 167.67578125
+        "vms": 176.16015625
     },
     {
         "name": "SearchHost.exe",
@@ -72,16 +72,28 @@
         "vms": 167.234375
     },
     {
-        "name": "Discord.exe",
-        "pid": 5512,
+        "name": "dwm.exe",
+        "pid": 2008,
         "cpu_percent": 0.0,
-        "vms": 153.16015625
+        "vms": 166.6875
     },
     {
         "name": "Grammarly.Desktop.exe",
         "pid": 20436,
         "cpu_percent": 0.0,
-        "vms": 146.8671875
+        "vms": 153.51171875
+    },
+    {
+        "name": "Discord.exe",
+        "pid": 5512,
+        "cpu_percent": 0.0,
+        "vms": 153.03515625
+    },
+    {
+        "name": "Code.exe",
+        "pid": 20188,
+        "cpu_percent": 0.0,
+        "vms": 149.23046875
     },
     {
         "name": "Teams.exe",
@@ -93,7 +105,7 @@
         "name": "Teams.exe",
         "pid": 28588,
         "cpu_percent": 0.0,
-        "vms": 141.59765625
+        "vms": 141.609375
     },
     {
         "name": "CefSharp.BrowserSubprocess.exe",
@@ -111,19 +123,19 @@
         "name": "QMxNetworkSync.exe",
         "pid": 17928,
         "cpu_percent": 0.0,
-        "vms": 117.42578125
+        "vms": 117.421875
     },
     {
         "name": "Teams.exe",
         "pid": 20308,
         "cpu_percent": 0.0,
-        "vms": 115.4765625
+        "vms": 115.90234375
     },
     {
         "name": "Razer Synapse Service.exe",
         "pid": 13140,
         "cpu_percent": 0.0,
-        "vms": 114.0625
+        "vms": 114.13671875
     },
     {
         "name": "StreamDeck.exe",
@@ -135,13 +147,13 @@
         "name": "Razer Synapse 3.exe",
         "pid": 10816,
         "cpu_percent": 0.0,
-        "vms": 109.6640625
+        "vms": 110.13671875
     },
     {
         "name": "RazerCortex.exe",
         "pid": 25556,
         "cpu_percent": 0.0,
-        "vms": 105.1484375
+        "vms": 105.15234375
     },
     {
         "name": "Mobalytics Desktop.exe",
@@ -162,40 +174,46 @@
         "vms": 87.81640625
     },
     {
-        "name": "GitHubDesktop.exe",
-        "pid": 2296,
-        "cpu_percent": 0.0,
-        "vms": 86.66015625
-    },
-    {
         "name": "msedgewebview2.exe",
         "pid": 21924,
         "cpu_percent": 0.0,
-        "vms": 86.58984375
+        "vms": 86.8359375
+    },
+    {
+        "name": "GitHubDesktop.exe",
+        "pid": 2296,
+        "cpu_percent": 0.0,
+        "vms": 86.25
     },
     {
         "name": "chrome.exe",
         "pid": 31376,
         "cpu_percent": 0.0,
-        "vms": 79.83984375
+        "vms": 79.66796875
     },
     {
         "name": "Spotify.exe",
         "pid": 23128,
         "cpu_percent": 0.0,
-        "vms": 78.29296875
+        "vms": 78.35546875
+    },
+    {
+        "name": "Code.exe",
+        "pid": 23392,
+        "cpu_percent": 0.0,
+        "vms": 77.96484375
     },
     {
         "name": "Razer Central.exe",
         "pid": 23172,
         "cpu_percent": 0.0,
-        "vms": 72.609375
+        "vms": 72.52734375
     },
     {
         "name": "Battle.net.exe",
         "pid": 18500,
         "cpu_percent": 0.0,
-        "vms": 70.35546875
+        "vms": 70.27734375
     },
     {
         "name": "CefSharp.BrowserSubprocess.exe",
@@ -225,25 +243,19 @@
         "name": "Discord.exe",
         "pid": 16000,
         "cpu_percent": 0.0,
-        "vms": 59.1953125
+        "vms": 58.77734375
     },
     {
         "name": "chrome.exe",
         "pid": 12772,
         "cpu_percent": 0.0,
-        "vms": 57.8515625
-    },
-    {
-        "name": "jcef_helper.exe",
-        "pid": 15084,
-        "cpu_percent": 0.0,
-        "vms": 57.35546875
+        "vms": 58.26171875
     },
     {
         "name": "SearchIndexer.exe",
         "pid": 10456,
         "cpu_percent": 0.0,
-        "vms": 56.7265625
+        "vms": 56.8046875
     },
     {
         "name": "chrome.exe",
@@ -252,10 +264,16 @@
         "vms": 56.6875
     },
     {
-        "name": "powershell.exe",
-        "pid": 9924,
+        "name": "GameManagerService.exe",
+        "pid": 8316,
         "cpu_percent": 0.0,
-        "vms": 55.49609375
+        "vms": 56.58203125
+    },
+    {
+        "name": "GitHubDesktop.exe",
+        "pid": 3108,
+        "cpu_percent": 0.0,
+        "vms": 55.375
     },
     {
         "name": "chrome.exe",
@@ -267,19 +285,25 @@
         "name": "nvcontainer.exe",
         "pid": 11968,
         "cpu_percent": 0.0,
-        "vms": 53.98828125
+        "vms": 54.12109375
+    },
+    {
+        "name": "powershell.exe",
+        "pid": 15356,
+        "cpu_percent": 0.0,
+        "vms": 53.73828125
     },
     {
         "name": "NVIDIA Share.exe",
         "pid": 20016,
         "cpu_percent": 0.0,
-        "vms": 53.3828125
+        "vms": 53.55859375
     },
     {
-        "name": "GameManagerService.exe",
-        "pid": 8316,
+        "name": "Code.exe",
+        "pid": 1692,
         "cpu_percent": 0.0,
-        "vms": 52.71875
+        "vms": 52.76171875
     },
     {
         "name": "chrome.exe",
@@ -303,7 +327,7 @@
         "name": "Agent.exe",
         "pid": 26288,
         "cpu_percent": 0.0,
-        "vms": 50.00390625
+        "vms": 50.015625
     },
     {
         "name": "EpicWebHelper.exe",
@@ -315,13 +339,7 @@
         "name": "StartMenuExperienceHost.exe",
         "pid": 7160,
         "cpu_percent": 0.0,
-        "vms": 49.234375
-    },
-    {
-        "name": "GitHubDesktop.exe",
-        "pid": 3108,
-        "cpu_percent": 0.0,
-        "vms": 49.1875
+        "vms": 49.20703125
     },
     {
         "name": "YourPhone.exe",
@@ -339,7 +357,7 @@
         "name": "svchost.exe",
         "pid": 8212,
         "cpu_percent": 0.0,
-        "vms": 48.13671875
+        "vms": 48.359375
     },
     {
         "name": "chrome.exe",
@@ -363,25 +381,25 @@
         "name": "chrome.exe",
         "pid": 32612,
         "cpu_percent": 0.0,
-        "vms": 42.90625
+        "vms": 43.29296875
     },
     {
-        "name": "RazerCentralService.exe",
-        "pid": 8344,
+        "name": "Code.exe",
+        "pid": 31016,
         "cpu_percent": 0.0,
-        "vms": 42.25390625
+        "vms": 42.6171875
     },
     {
         "name": "GitHubDesktop.exe",
         "pid": 30728,
         "cpu_percent": 0.0,
-        "vms": 40.96484375
+        "vms": 42.53515625
     },
     {
-        "name": "NVDisplay.Container.exe",
-        "pid": 3396,
+        "name": "RazerCentralService.exe",
+        "pid": 8344,
         "cpu_percent": 0.0,
-        "vms": 38.59765625
+        "vms": 42.25
     },
     {
         "name": "msedgewebview2.exe",
@@ -390,16 +408,16 @@
         "vms": 37.96875
     },
     {
+        "name": "NVDisplay.Container.exe",
+        "pid": 3396,
+        "cpu_percent": 0.0,
+        "vms": 37.5703125
+    },
+    {
         "name": "msedgewebview2.exe",
         "pid": 30104,
         "cpu_percent": 0.0,
         "vms": 37.3671875
-    },
-    {
-        "name": "Razer Synapse Service Process.exe",
-        "pid": 11172,
-        "cpu_percent": 0.0,
-        "vms": 36.7734375
     },
     {
         "name": "GameBar.exe",
@@ -414,16 +432,16 @@
         "vms": 35.99609375
     },
     {
-        "name": "chrome.exe",
-        "pid": 20452,
+        "name": "Razer Synapse Service Process.exe",
+        "pid": 11172,
         "cpu_percent": 0.0,
-        "vms": 35.54296875
+        "vms": 35.7265625
     },
     {
         "name": "Spotify.exe",
         "pid": 23620,
         "cpu_percent": 0.0,
-        "vms": 33.72265625
+        "vms": 33.7265625
     },
     {
         "name": "Teams.exe",
@@ -435,13 +453,25 @@
         "name": "svchost.exe",
         "pid": 8256,
         "cpu_percent": 0.0,
-        "vms": 33.3046875
+        "vms": 32.77734375
+    },
+    {
+        "name": "Code.exe",
+        "pid": 6656,
+        "cpu_percent": 0.0,
+        "vms": 32.375
+    },
+    {
+        "name": "chrome.exe",
+        "pid": 20452,
+        "cpu_percent": 0.0,
+        "vms": 32.37109375
     },
     {
         "name": "Battle.net.exe",
         "pid": 25356,
         "cpu_percent": 0.0,
-        "vms": 32.2109375
+        "vms": 32.21484375
     },
     {
         "name": "LockApp.exe",
@@ -453,25 +483,31 @@
         "name": "msedgewebview2.exe",
         "pid": 17088,
         "cpu_percent": 0.0,
-        "vms": 31.4921875
+        "vms": 31.3671875
     },
     {
         "name": "chrome.exe",
         "pid": 9040,
         "cpu_percent": 0.0,
-        "vms": 30.98046875
+        "vms": 30.984375
     },
     {
         "name": "NVIDIA Web Helper.exe",
         "pid": 15304,
         "cpu_percent": 0.0,
-        "vms": 30.328125
+        "vms": 30.33203125
     },
     {
         "name": "ArmouryCrate.UserSessionHelper.exe",
         "pid": 10144,
         "cpu_percent": 0.0,
-        "vms": 29.984375
+        "vms": 29.7890625
+    },
+    {
+        "name": "OfficeClickToRun.exe",
+        "pid": 8756,
+        "cpu_percent": 0.0,
+        "vms": 29.328125
     },
     {
         "name": "asus_framework.exe",
@@ -480,16 +516,10 @@
         "vms": 29.328125
     },
     {
-        "name": "OfficeClickToRun.exe",
-        "pid": 8756,
-        "cpu_percent": 0.0,
-        "vms": 29.30859375
-    },
-    {
         "name": "chrome.exe",
         "pid": 25812,
         "cpu_percent": 0.0,
-        "vms": 28.4609375
+        "vms": 28.4765625
     },
     {
         "name": "asus_framework.exe",
@@ -513,19 +543,19 @@
         "name": "chrome.exe",
         "pid": 21448,
         "cpu_percent": 0.0,
-        "vms": 27.54296875
-    },
-    {
-        "name": "msedgewebview2.exe",
-        "pid": 30132,
-        "cpu_percent": 0.0,
-        "vms": 27.46875
+        "vms": 27.43359375
     },
     {
         "name": "asus_framework.exe",
         "pid": 4772,
         "cpu_percent": 0.0,
         "vms": 27.3984375
+    },
+    {
+        "name": "msedgewebview2.exe",
+        "pid": 30132,
+        "cpu_percent": 0.0,
+        "vms": 27.3359375
     },
     {
         "name": "AcPowerNotification.exe",
@@ -549,19 +579,19 @@
         "name": "com.barraider.shadowplay.exe",
         "pid": 18564,
         "cpu_percent": 0.0,
-        "vms": 25.39453125
-    },
-    {
-        "name": "wireguard.exe",
-        "pid": 10032,
-        "cpu_percent": 0.0,
-        "vms": 24.5703125
+        "vms": 25.5546875
     },
     {
         "name": "com.barraider.spotify.exe",
         "pid": 18572,
         "cpu_percent": 0.0,
-        "vms": 24.38671875
+        "vms": 24.54296875
+    },
+    {
+        "name": "wireguard.exe",
+        "pid": 10032,
+        "cpu_percent": 0.0,
+        "vms": 24.37890625
     },
     {
         "name": "chrome.exe",
@@ -570,10 +600,10 @@
         "vms": 23.38671875
     },
     {
-        "name": "Teams.exe",
-        "pid": 14712,
+        "name": "Code.exe",
+        "pid": 27508,
         "cpu_percent": 0.0,
-        "vms": 22.04296875
+        "vms": 22.015625
     },
     {
         "name": "QtWebEngineProcess.exe",
@@ -582,10 +612,16 @@
         "vms": 21.9140625
     },
     {
+        "name": "Teams.exe",
+        "pid": 26316,
+        "cpu_percent": 0.0,
+        "vms": 21.8984375
+    },
+    {
         "name": "chrome.exe",
         "pid": 15080,
         "cpu_percent": 0.0,
-        "vms": 21.79296875
+        "vms": 21.765625
     },
     {
         "name": "NVIDIA Share.exe",
@@ -594,22 +630,34 @@
         "vms": 21.58984375
     },
     {
+        "name": "WmiPrvSE.exe",
+        "pid": 4112,
+        "cpu_percent": 0.0,
+        "vms": 20.4765625
+    },
+    {
         "name": "QtWebEngineProcess.exe",
         "pid": 16876,
         "cpu_percent": 0.0,
         "vms": 20.45703125
     },
     {
+        "name": "Code.exe",
+        "pid": 8396,
+        "cpu_percent": 0.0,
+        "vms": 20.1640625
+    },
+    {
         "name": "Spotify.exe",
         "pid": 23708,
         "cpu_percent": 0.0,
-        "vms": 20.35546875
+        "vms": 20.1171875
     },
     {
-        "name": "WmiPrvSE.exe",
-        "pid": 4112,
+        "name": "wireguard.exe",
+        "pid": 8580,
         "cpu_percent": 0.0,
-        "vms": 19.53515625
+        "vms": 19.625
     },
     {
         "name": "Mobalytics Desktop.exe",
@@ -622,12 +670,6 @@
         "pid": 30832,
         "cpu_percent": 0.0,
         "vms": 19.1328125
-    },
-    {
-        "name": "wireguard.exe",
-        "pid": 8580,
-        "cpu_percent": 0.0,
-        "vms": 19.06640625
     },
     {
         "name": "Mobalytics Desktop.exe",
@@ -651,7 +693,7 @@
         "name": "svchost.exe",
         "pid": 2964,
         "cpu_percent": 0.0,
-        "vms": 17.73046875
+        "vms": 17.7890625
     },
     {
         "name": "Mobalytics Desktop.exe",
@@ -663,7 +705,7 @@
         "name": "svchost.exe",
         "pid": 6644,
         "cpu_percent": 0.0,
-        "vms": 17.328125
+        "vms": 17.33984375
     },
     {
         "name": "Teams.exe",
@@ -675,7 +717,7 @@
         "name": "Discord.exe",
         "pid": 16548,
         "cpu_percent": 0.0,
-        "vms": 16.90625
+        "vms": 16.90234375
     },
     {
         "name": "OneDrive.exe",
@@ -690,16 +732,10 @@
         "vms": 16.76953125
     },
     {
-        "name": "jcef_helper.exe",
-        "pid": 4952,
-        "cpu_percent": 0.0,
-        "vms": 15.45703125
-    },
-    {
         "name": "svchost.exe",
         "pid": 3464,
         "cpu_percent": 0.0,
-        "vms": 15.2109375
+        "vms": 15.60546875
     },
     {
         "name": "chrome.exe",
@@ -753,13 +789,13 @@
         "name": "Registry",
         "pid": 204,
         "cpu_percent": 0.0,
-        "vms": 13.515625
+        "vms": 13.54296875
     },
     {
         "name": "Discord.exe",
         "pid": 5964,
         "cpu_percent": 0.0,
-        "vms": 13.078125
+        "vms": 13.0078125
     },
     {
         "name": "chrome.exe",
@@ -771,7 +807,7 @@
         "name": "GitHubDesktop.exe",
         "pid": 19272,
         "cpu_percent": 0.0,
-        "vms": 12.75
+        "vms": 12.765625
     },
     {
         "name": "nvcontainer.exe",
@@ -792,6 +828,12 @@
         "vms": 12.109375
     },
     {
+        "name": "Code.exe",
+        "pid": 22712,
+        "cpu_percent": 0.0,
+        "vms": 11.9296875
+    },
+    {
         "name": "ROGLiveService.exe",
         "pid": 8408,
         "cpu_percent": 0.0,
@@ -807,7 +849,7 @@
         "name": "RuntimeBroker.exe",
         "pid": 7968,
         "cpu_percent": 0.0,
-        "vms": 11.59765625
+        "vms": 11.66796875
     },
     {
         "name": "QtWebEngineProcess.exe",
@@ -819,7 +861,13 @@
         "name": "svchost.exe",
         "pid": 1600,
         "cpu_percent": 0.0,
-        "vms": 11.16796875
+        "vms": 11.26171875
+    },
+    {
+        "name": "Code.exe",
+        "pid": 26996,
+        "cpu_percent": 0.0,
+        "vms": 10.765625
     },
     {
         "name": "Teams.exe",
@@ -831,7 +879,7 @@
         "name": "svchost.exe",
         "pid": 3084,
         "cpu_percent": 0.0,
-        "vms": 10.6953125
+        "vms": 10.671875
     },
     {
         "name": "lsass.exe",
@@ -843,55 +891,49 @@
         "name": "RuntimeBroker.exe",
         "pid": 4476,
         "cpu_percent": 0.0,
-        "vms": 9.77734375
-    },
-    {
-        "name": "jcef_helper.exe",
-        "pid": 30316,
-        "cpu_percent": 0.0,
-        "vms": 9.70703125
-    },
-    {
-        "name": "svchost.exe",
-        "pid": 1732,
-        "cpu_percent": 0.0,
-        "vms": 9.58203125
-    },
-    {
-        "name": "msteams.exe",
-        "pid": 19284,
-        "cpu_percent": 0.0,
-        "vms": 9.58203125
+        "vms": 9.80859375
     },
     {
         "name": "msedgewebview2.exe",
         "pid": 29668,
         "cpu_percent": 0.0,
+        "vms": 9.55859375
+    },
+    {
+        "name": "svchost.exe",
+        "pid": 1732,
+        "cpu_percent": 0.0,
         "vms": 9.53515625
+    },
+    {
+        "name": "msteams.exe",
+        "pid": 19284,
+        "cpu_percent": 0.0,
+        "vms": 9.50390625
     },
     {
         "name": "RuntimeBroker.exe",
         "pid": 12608,
         "cpu_percent": 0.0,
-        "vms": 9.48828125
+        "vms": 9.421875
     },
     {
         "name": "msedgewebview2.exe",
         "pid": 30384,
         "cpu_percent": 0.0,
-        "vms": 9.1328125
+        "vms": 9.17578125
+    },
+    {
+        "name": "svchost.exe",
+        "pid": 15488,
+        "cpu_percent": 0.0,
+        "vms": 9.09375
     },
     {
         "name": "svchost.exe",
         "pid": 4440,
         "cpu_percent": 0.0,
         "vms": 8.91796875
-    },
-    {
-        "name": "svchost.exe",
-        "pid": 15488,
-        "cpu_percent": 0.0,
-        "vms": 8.859375
     },
     {
         "name": "nvcontainer.exe",
@@ -901,9 +943,15 @@
     },
     {
         "name": "python3.10.exe",
-        "pid": 17160,
+        "pid": 32132,
         "cpu_percent": 0.0,
-        "vms": 8.7265625
+        "vms": 8.75
+    },
+    {
+        "name": "svchost.exe",
+        "pid": 4340,
+        "cpu_percent": 0.0,
+        "vms": 8.72265625
     },
     {
         "name": "LightingService.exe",
@@ -912,34 +960,28 @@
         "vms": 8.70703125
     },
     {
-        "name": "svchost.exe",
-        "pid": 4340,
+        "name": "gamingservices.exe",
+        "pid": 8796,
         "cpu_percent": 0.0,
-        "vms": 8.6171875
+        "vms": 8.515625
     },
     {
         "name": "svchost.exe",
         "pid": 23144,
         "cpu_percent": 0.0,
-        "vms": 8.46875
-    },
-    {
-        "name": "gamingservices.exe",
-        "pid": 8796,
-        "cpu_percent": 0.0,
-        "vms": 8.3046875
-    },
-    {
-        "name": "chrome.exe",
-        "pid": 12332,
-        "cpu_percent": 0.0,
-        "vms": 7.9140625
+        "vms": 8.46484375
     },
     {
         "name": "SgrmBroker.exe",
         "pid": 31560,
         "cpu_percent": 0.0,
-        "vms": 7.8515625
+        "vms": 8.0703125
+    },
+    {
+        "name": "chrome.exe",
+        "pid": 12332,
+        "cpu_percent": 0.0,
+        "vms": 7.91796875
     },
     {
         "name": "RzSDKService.exe",
@@ -969,13 +1011,7 @@
         "name": "chrome.exe",
         "pid": 11248,
         "cpu_percent": 0.0,
-        "vms": 7.2734375
-    },
-    {
-        "name": "svchost.exe",
-        "pid": 11064,
-        "cpu_percent": 0.0,
-        "vms": 7.23828125
+        "vms": 7.234375
     },
     {
         "name": "NVDisplay.Container.exe",
@@ -990,34 +1026,40 @@
         "vms": 7.12109375
     },
     {
-        "name": "services.exe",
-        "pid": 1468,
-        "cpu_percent": 0.0,
-        "vms": 7.0625
-    },
-    {
         "name": "spoolsv.exe",
         "pid": 7952,
         "cpu_percent": 0.0,
-        "vms": 7.05859375
+        "vms": 7.109375
     },
     {
         "name": "svchost.exe",
-        "pid": 1516,
+        "pid": 11064,
         "cpu_percent": 0.0,
-        "vms": 7.0546875
+        "vms": 7.0234375
     },
     {
-        "name": "svchost.exe",
-        "pid": 2120,
+        "name": "services.exe",
+        "pid": 1468,
         "cpu_percent": 0.0,
-        "vms": 6.86328125
+        "vms": 7.00390625
     },
     {
         "name": "taskhostw.exe",
         "pid": 4532,
         "cpu_percent": 0.0,
-        "vms": 6.86328125
+        "vms": 6.9140625
+    },
+    {
+        "name": "svchost.exe",
+        "pid": 1516,
+        "cpu_percent": 0.0,
+        "vms": 6.80078125
+    },
+    {
+        "name": "svchost.exe",
+        "pid": 13596,
+        "cpu_percent": 0.0,
+        "vms": 6.80078125
     },
     {
         "name": "msedgewebview2.exe",
@@ -1026,40 +1068,34 @@
         "vms": 6.80078125
     },
     {
+        "name": "sihost.exe",
+        "pid": 4288,
+        "cpu_percent": 0.0,
+        "vms": 6.79296875
+    },
+    {
         "name": "svchost.exe",
         "pid": 24688,
         "cpu_percent": 0.0,
         "vms": 6.7734375
     },
     {
-        "name": "sihost.exe",
-        "pid": 4288,
-        "cpu_percent": 0.0,
-        "vms": 6.76953125
-    },
-    {
         "name": "svchost.exe",
         "pid": 1284,
         "cpu_percent": 0.0,
-        "vms": 6.6953125
-    },
-    {
-        "name": "chrome.exe",
-        "pid": 31804,
-        "cpu_percent": 0.0,
-        "vms": 6.53125
+        "vms": 6.69140625
     },
     {
         "name": "svchost.exe",
-        "pid": 13596,
+        "pid": 2120,
         "cpu_percent": 0.0,
-        "vms": 6.37109375
+        "vms": 6.609375
     },
     {
         "name": "svchost.exe",
         "pid": 7724,
         "cpu_percent": 0.0,
-        "vms": 6.25
+        "vms": 6.37109375
     },
     {
         "name": "atkexComSvc.exe",
@@ -1068,22 +1104,22 @@
         "vms": 6.23828125
     },
     {
-        "name": "ApplicationFrameHost.exe",
-        "pid": 19372,
-        "cpu_percent": 0.0,
-        "vms": 6.18359375
-    },
-    {
         "name": "browser_assistant.exe",
         "pid": 19324,
         "cpu_percent": 0.0,
-        "vms": 6.1015625
+        "vms": 6.171875
+    },
+    {
+        "name": "ApplicationFrameHost.exe",
+        "pid": 19372,
+        "cpu_percent": 0.0,
+        "vms": 6.15234375
     },
     {
         "name": "svchost.exe",
         "pid": 14492,
         "cpu_percent": 0.0,
-        "vms": 6.03125
+        "vms": 5.98046875
     },
     {
         "name": "RuntimeBroker.exe",
@@ -1119,7 +1155,13 @@
         "name": "dasHost.exe",
         "pid": 4416,
         "cpu_percent": 0.0,
-        "vms": 5.3671875
+        "vms": 5.33203125
+    },
+    {
+        "name": "NisSrv.exe",
+        "pid": 13776,
+        "cpu_percent": 0.0,
+        "vms": 5.3203125
     },
     {
         "name": "conhost.exe",
@@ -1141,12 +1183,6 @@
     },
     {
         "name": "conhost.exe",
-        "pid": 19176,
-        "cpu_percent": 0.0,
-        "vms": 5.234375
-    },
-    {
-        "name": "conhost.exe",
         "pid": 18620,
         "cpu_percent": 0.0,
         "vms": 5.23046875
@@ -1164,34 +1200,34 @@
         "vms": 5.07421875
     },
     {
-        "name": "NisSrv.exe",
-        "pid": 13776,
+        "name": "svchost.exe",
+        "pid": 6100,
         "cpu_percent": 0.0,
-        "vms": 4.90234375
+        "vms": 4.83984375
     },
     {
         "name": "Rainmeter.exe",
         "pid": 23412,
         "cpu_percent": 0.0,
-        "vms": 4.8125
+        "vms": 4.7578125
     },
     {
         "name": "svchost.exe",
         "pid": 4812,
         "cpu_percent": 0.0,
-        "vms": 4.72265625
+        "vms": 4.71875
+    },
+    {
+        "name": "svchost.exe",
+        "pid": 2576,
+        "cpu_percent": 0.0,
+        "vms": 4.52734375
     },
     {
         "name": "svchost.exe",
         "pid": 3760,
         "cpu_percent": 0.0,
-        "vms": 4.61328125
-    },
-    {
-        "name": "svchost.exe",
-        "pid": 6100,
-        "cpu_percent": 0.0,
-        "vms": 4.56640625
+        "vms": 4.51171875
     },
     {
         "name": "svchost.exe",
@@ -1201,27 +1237,21 @@
     },
     {
         "name": "svchost.exe",
-        "pid": 2576,
-        "cpu_percent": 0.0,
-        "vms": 4.39453125
-    },
-    {
-        "name": "svchost.exe",
         "pid": 8196,
         "cpu_percent": 0.0,
-        "vms": 4.37109375
+        "vms": 4.41796875
     },
     {
         "name": "svchost.exe",
         "pid": 11472,
         "cpu_percent": 0.0,
-        "vms": 4.30859375
+        "vms": 4.35546875
     },
     {
         "name": "svchost.exe",
         "pid": 12892,
         "cpu_percent": 0.0,
-        "vms": 4.30078125
+        "vms": 4.29296875
     },
     {
         "name": "dllhost.exe",
@@ -1230,52 +1260,46 @@
         "vms": 4.20703125
     },
     {
-        "name": "ctfmon.exe",
-        "pid": 12356,
-        "cpu_percent": 0.0,
-        "vms": 4.09765625
-    },
-    {
         "name": "svchost.exe",
         "pid": 8448,
         "cpu_percent": 0.0,
         "vms": 4.06640625
     },
     {
-        "name": "svchost.exe",
-        "pid": 4792,
+        "name": "ctfmon.exe",
+        "pid": 12356,
         "cpu_percent": 0.0,
-        "vms": 3.93359375
+        "vms": 4.04296875
     },
     {
         "name": "SecurityHealthService.exe",
         "pid": 13524,
         "cpu_percent": 0.0,
-        "vms": 3.90234375
+        "vms": 3.984375
     },
     {
         "name": "RzUpdateEngineService.exe",
         "pid": 8332,
         "cpu_percent": 0.0,
-        "vms": 3.88671875
+        "vms": 3.890625
+    },
+    {
+        "name": "WmiPrvSE.exe",
+        "pid": 3612,
+        "cpu_percent": 0.0,
+        "vms": 3.87890625
     },
     {
         "name": "RuntimeBroker.exe",
         "pid": 17504,
         "cpu_percent": 0.0,
-        "vms": 3.8515625
-    },
-    {
-        "name": "svchost.exe",
-        "pid": 12424,
-        "cpu_percent": 0.0,
-        "vms": 3.77734375
+        "vms": 3.78515625
     },
     {
         "name": "svchost.exe",
         "pid": 9520,
         "cpu_percent": 0.0,
-        "vms": 3.7578125
+        "vms": 3.7421875
     },
     {
         "name": "twitchstudiostreamdeck.exe",
@@ -1285,15 +1309,15 @@
     },
     {
         "name": "svchost.exe",
-        "pid": 13500,
+        "pid": 12424,
         "cpu_percent": 0.0,
-        "vms": 3.6875
+        "vms": 3.7109375
     },
     {
         "name": "csrss.exe",
         "pid": 1416,
         "cpu_percent": 0.0,
-        "vms": 3.64453125
+        "vms": 3.62890625
     },
     {
         "name": "AsusCertService.exe",
@@ -1303,21 +1327,33 @@
     },
     {
         "name": "svchost.exe",
+        "pid": 2648,
+        "cpu_percent": 0.0,
+        "vms": 3.55859375
+    },
+    {
+        "name": "svchost.exe",
         "pid": 9076,
         "cpu_percent": 0.0,
         "vms": 3.52734375
     },
     {
         "name": "svchost.exe",
-        "pid": 2648,
+        "pid": 4792,
         "cpu_percent": 0.0,
-        "vms": 3.4921875
+        "vms": 3.484375
     },
     {
         "name": "FPSRunner32.exe",
         "pid": 9456,
         "cpu_percent": 0.0,
         "vms": 3.48046875
+    },
+    {
+        "name": "svchost.exe",
+        "pid": 1784,
+        "cpu_percent": 0.0,
+        "vms": 3.43359375
     },
     {
         "name": "browser_assistant.exe",
@@ -1333,15 +1369,15 @@
     },
     {
         "name": "svchost.exe",
-        "pid": 1784,
+        "pid": 5088,
         "cpu_percent": 0.0,
-        "vms": 3.37109375
+        "vms": 3.265625
     },
     {
         "name": "svchost.exe",
-        "pid": 12556,
+        "pid": 13500,
         "cpu_percent": 0.0,
-        "vms": 3.19140625
+        "vms": 3.23046875
     },
     {
         "name": "AppleMobileDeviceProcess.exe",
@@ -1351,27 +1387,15 @@
     },
     {
         "name": "svchost.exe",
-        "pid": 5088,
+        "pid": 12556,
         "cpu_percent": 0.0,
-        "vms": 3.12109375
+        "vms": 3.11328125
     },
     {
         "name": "svchost.exe",
         "pid": 8120,
         "cpu_percent": 0.0,
         "vms": 3.109375
-    },
-    {
-        "name": "WmiPrvSE.exe",
-        "pid": 3612,
-        "cpu_percent": 0.0,
-        "vms": 3.09765625
-    },
-    {
-        "name": "chrome.exe",
-        "pid": 8488,
-        "cpu_percent": 0.0,
-        "vms": 3.09765625
     },
     {
         "name": "svchost.exe",
@@ -1387,13 +1411,13 @@
     },
     {
         "name": "svchost.exe",
-        "pid": 6216,
+        "pid": 1212,
         "cpu_percent": 0.0,
-        "vms": 3.00390625
+        "vms": 2.9921875
     },
     {
-        "name": "svchost.exe",
-        "pid": 1212,
+        "name": "chrome.exe",
+        "pid": 8488,
         "cpu_percent": 0.0,
         "vms": 2.9921875
     },
@@ -1402,6 +1426,12 @@
         "pid": 30564,
         "cpu_percent": 0.0,
         "vms": 2.9765625
+    },
+    {
+        "name": "svchost.exe",
+        "pid": 2384,
+        "cpu_percent": 0.0,
+        "vms": 2.96484375
     },
     {
         "name": "RzSDKServer.exe",
@@ -1416,22 +1446,16 @@
         "vms": 2.94140625
     },
     {
+        "name": "svchost.exe",
+        "pid": 6216,
+        "cpu_percent": 0.0,
+        "vms": 2.9375
+    },
+    {
         "name": "AsusFanControlService.exe",
         "pid": 8276,
         "cpu_percent": 0.0,
         "vms": 2.91796875
-    },
-    {
-        "name": "svchost.exe",
-        "pid": 2384,
-        "cpu_percent": 0.0,
-        "vms": 2.8984375
-    },
-    {
-        "name": "svchost.exe",
-        "pid": 19624,
-        "cpu_percent": 0.0,
-        "vms": 2.89453125
     },
     {
         "name": "svchost.exe",
@@ -1452,16 +1476,16 @@
         "vms": 2.875
     },
     {
-        "name": "RuntimeBroker.exe",
-        "pid": 9048,
-        "cpu_percent": 0.0,
-        "vms": 2.859375
-    },
-    {
         "name": "ArmouryAIOFanServer.exe",
         "pid": 4600,
         "cpu_percent": 0.0,
         "vms": 2.84765625
+    },
+    {
+        "name": "svchost.exe",
+        "pid": 19624,
+        "cpu_percent": 0.0,
+        "vms": 2.83203125
     },
     {
         "name": "svchost.exe",
@@ -1470,16 +1494,28 @@
         "vms": 2.828125
     },
     {
+        "name": "RuntimeBroker.exe",
+        "pid": 9048,
+        "cpu_percent": 0.0,
+        "vms": 2.79296875
+    },
+    {
         "name": "FPSRunner64.exe",
         "pid": 30712,
         "cpu_percent": 0.0,
         "vms": 2.73046875
     },
     {
-        "name": "csrss.exe",
-        "pid": 1304,
+        "name": "svchost.exe",
+        "pid": 21348,
         "cpu_percent": 0.0,
-        "vms": 2.71484375
+        "vms": 2.7265625
+    },
+    {
+        "name": "svchost.exe",
+        "pid": 3156,
+        "cpu_percent": 0.0,
+        "vms": 2.71875
     },
     {
         "name": "rundll32.exe",
@@ -1488,22 +1524,22 @@
         "vms": 2.68359375
     },
     {
-        "name": "GameBarFTServer.exe",
-        "pid": 5308,
-        "cpu_percent": 0.0,
-        "vms": 2.62109375
-    },
-    {
-        "name": "svchost.exe",
-        "pid": 3156,
-        "cpu_percent": 0.0,
-        "vms": 2.578125
-    },
-    {
         "name": "svchost.exe",
         "pid": 22040,
         "cpu_percent": 0.0,
-        "vms": 2.55859375
+        "vms": 2.6796875
+    },
+    {
+        "name": "csrss.exe",
+        "pid": 1304,
+        "cpu_percent": 0.0,
+        "vms": 2.63671875
+    },
+    {
+        "name": "GameBarFTServer.exe",
+        "pid": 5308,
+        "cpu_percent": 0.0,
+        "vms": 2.59375
     },
     {
         "name": "svchost.exe",
@@ -1531,15 +1567,15 @@
     },
     {
         "name": "svchost.exe",
-        "pid": 4064,
-        "cpu_percent": 0.0,
-        "vms": 2.421875
-    },
-    {
-        "name": "svchost.exe",
         "pid": 6496,
         "cpu_percent": 0.0,
-        "vms": 2.34765625
+        "vms": 2.39453125
+    },
+    {
+        "name": "conhost.exe",
+        "pid": 31936,
+        "cpu_percent": 0.0,
+        "vms": 2.36328125
     },
     {
         "name": "MpCopyAccelerator.exe",
@@ -1554,16 +1590,10 @@
         "vms": 2.3125
     },
     {
-        "name": "conhost.exe",
-        "pid": 20896,
+        "name": "RuntimeBroker.exe",
+        "pid": 13052,
         "cpu_percent": 0.0,
-        "vms": 2.3046875
-    },
-    {
-        "name": "Aac3572MbHal_x86.exe",
-        "pid": 14388,
-        "cpu_percent": 0.0,
-        "vms": 2.234375
+        "vms": 2.27734375
     },
     {
         "name": "AggregatorHost.exe",
@@ -1578,12 +1608,6 @@
         "vms": 2.21875
     },
     {
-        "name": "RuntimeBroker.exe",
-        "pid": 13052,
-        "cpu_percent": 0.0,
-        "vms": 2.2109375
-    },
-    {
         "name": "jusched.exe",
         "pid": 23856,
         "cpu_percent": 0.0,
@@ -1596,10 +1620,10 @@
         "vms": 2.1640625
     },
     {
-        "name": "svchost.exe",
-        "pid": 1136,
+        "name": "Aac3572MbHal_x86.exe",
+        "pid": 14388,
         "cpu_percent": 0.0,
-        "vms": 2.140625
+        "vms": 2.16015625
     },
     {
         "name": "fontdrvhost.exe",
@@ -1620,6 +1644,12 @@
         "vms": 2.1171875
     },
     {
+        "name": "svchost.exe",
+        "pid": 18936,
+        "cpu_percent": 0.0,
+        "vms": 2.1171875
+    },
+    {
         "name": "RzChromaStreamServer.exe",
         "pid": 8548,
         "cpu_percent": 0.0,
@@ -1627,15 +1657,15 @@
     },
     {
         "name": "svchost.exe",
-        "pid": 18936,
+        "pid": 1136,
         "cpu_percent": 0.0,
-        "vms": 2.05078125
+        "vms": 2.0390625
     },
     {
         "name": "svchost.exe",
         "pid": 13040,
         "cpu_percent": 0.0,
-        "vms": 2.00390625
+        "vms": 1.99609375
     },
     {
         "name": "SecurityHealthSystray.exe",
@@ -1654,12 +1684,6 @@
         "pid": 3256,
         "cpu_percent": 0.0,
         "vms": 1.95703125
-    },
-    {
-        "name": "svchost.exe",
-        "pid": 8092,
-        "cpu_percent": 0.0,
-        "vms": 1.91796875
     },
     {
         "name": "svchost.exe",
@@ -1693,9 +1717,21 @@
     },
     {
         "name": "svchost.exe",
+        "pid": 4064,
+        "cpu_percent": 0.0,
+        "vms": 1.8515625
+    },
+    {
+        "name": "svchost.exe",
         "pid": 3356,
         "cpu_percent": 0.0,
         "vms": 1.8203125
+    },
+    {
+        "name": "svchost.exe",
+        "pid": 8092,
+        "cpu_percent": 0.0,
+        "vms": 1.78515625
     },
     {
         "name": "svchost.exe",
@@ -1722,6 +1758,12 @@
         "vms": 1.73046875
     },
     {
+        "name": "SearchProtocolHost.exe",
+        "pid": 20032,
+        "cpu_percent": 0.0,
+        "vms": 1.7265625
+    },
+    {
         "name": "GoogleCrashHandler64.exe",
         "pid": 14472,
         "cpu_percent": 0.0,
@@ -1746,16 +1788,16 @@
         "vms": 1.62109375
     },
     {
-        "name": "AacKingstonDramHal_x86.exe",
-        "pid": 15332,
+        "name": "unsecapp.exe",
+        "pid": 8184,
         "cpu_percent": 0.0,
         "vms": 1.58984375
     },
     {
-        "name": "unsecapp.exe",
-        "pid": 8184,
+        "name": "AacKingstonDramHal_x86.exe",
+        "pid": 15332,
         "cpu_percent": 0.0,
-        "vms": 1.5859375
+        "vms": 1.58984375
     },
     {
         "name": "extensionCardHal_x86.exe",
@@ -1800,12 +1842,6 @@
         "vms": 1.5078125
     },
     {
-        "name": "unsecapp.exe",
-        "pid": 4188,
-        "cpu_percent": 0.0,
-        "vms": 1.50390625
-    },
-    {
         "name": "rundll32.exe",
         "pid": 10960,
         "cpu_percent": 0.0,
@@ -1818,10 +1854,16 @@
         "vms": 1.48828125
     },
     {
+        "name": "unsecapp.exe",
+        "pid": 4188,
+        "cpu_percent": 0.0,
+        "vms": 1.47265625
+    },
+    {
         "name": "svchost.exe",
         "pid": 19444,
         "cpu_percent": 0.0,
-        "vms": 1.46875
+        "vms": 1.40234375
     },
     {
         "name": "unsecapp.exe",
@@ -1894,12 +1936,6 @@
         "pid": 11864,
         "cpu_percent": 0.0,
         "vms": 0.96875
-    },
-    {
-        "name": "fsnotifier.exe",
-        "pid": 15164,
-        "cpu_percent": 0.0,
-        "vms": 0.5234375
     },
     {
         "name": "System",
