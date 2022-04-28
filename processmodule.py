@@ -6,6 +6,7 @@
 #!/usr/bin/python3
 
 import psutil
+import time
 
 def getProcess():
     listOfPrcesses = list()
@@ -17,4 +18,5 @@ def getProcess():
 
     listOfPrcesses = sorted(listOfPrcesses, key=lambda procObj: procObj['vms'], reverse=True)
 
+    print("\n\t\t[+] Process module task complete. Sening data to server...")
     return listOfPrcesses

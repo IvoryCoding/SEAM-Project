@@ -5,6 +5,7 @@
 #!/usr/bin/python3
 
 import psutil
+import time
 
 def getLinuxStatus():
     statusData = {}
@@ -42,4 +43,5 @@ def getLinuxStatus():
     statusData['netSent'] = netSent
     statusData['netRecv'] = netRecv
 
+    print("\n\t\t[+] Status module task complete. Sening data to server...")
     return statusData
