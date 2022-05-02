@@ -12,6 +12,6 @@ def postJSON(): # Add data parameter
 
     jsonInfo = {"Id": "1", "Name": "Emma", "Age": "21"}
     
-    r = requests.post('http://192.168.1.85/seam-server/handlePost.py', jsonInfo, headers=newHeaders)
+    r = requests.post('http://127.0.0.1:5000/servers', jsonInfo, headers=newHeaders)
 
     print(f"\n\t\tStatus Code: {r.status_code} Response: \n{r.text}")
