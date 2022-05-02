@@ -13,6 +13,7 @@ import time
 import processmodule
 import statusmodule
 import networkmodule
+import datamodule
 
 def processModule():
     try:
@@ -47,5 +48,8 @@ if __name__ == "__main__":
         # Need to make the script much faster
         nmThread = Thread(target=networkModule)
         nmThread.start()
+
+        # Testing purposes
+        datamodule.postJSON()
 
         time.sleep(60)
