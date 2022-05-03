@@ -1,4 +1,4 @@
-from flask import Flask, render_template, request
+from flask import Flask, render_template, request, redirect, url_for
 
 app = Flask(__name__)
 
@@ -10,10 +10,14 @@ def index():
 def servers():
     return render_template('serverdata.html')
 
-@app.route('/servers', methods=['POST'])
-def parse_request():
-    data = request.get_json()
-    return f'Recieved! {data}'
+@app.route('/post_json', methods=['POST'])
+def process_json():
+    contentType = request.headers.get('Content-Type')
+    if contentType == 'application/json':
+        json = request.get_json()
+        return json
+    else:
+        return 'Content-Type is not supported!'
 
 if __name__ == '__main__':
     app.run(debug=True, host='0.0.0.0')
