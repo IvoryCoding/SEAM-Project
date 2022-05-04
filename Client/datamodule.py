@@ -16,6 +16,6 @@ def postJSON(): # Add data parameter
 
     if r.status_code == 200:
         print("\n\t\t[+] POST request successful!")
-        print(f"\n\t\tStatus Code: {r.status_code} Response: \n\t\t{r.text}")
+        print(f"\n\t\tStatus Code: {r.status_code} Response: \n{r.text}")
     else:
         print("\n\t\t[-] POST request failed!")

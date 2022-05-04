@@ -15,7 +15,9 @@ def process_json():
     contentType = request.headers.get('Content-Type')
     if contentType == 'application/json':
         json = request.get_json()
-        return json
+        print(json)
+
+        return f'\n\t\t{json}' #json['age'] will return just the age value
     else:
         return 'Content-Type is not supported!'
 

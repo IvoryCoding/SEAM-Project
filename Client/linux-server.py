@@ -38,6 +38,9 @@ def networkModule():
 
 if __name__ == "__main__":
     while True:
+
+        print('\n\t\t' + '-' * 60)
+
         # Create threads to run modules
         pmThread = Thread(target=processModule)
         pmThread.start()
