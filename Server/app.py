@@ -17,7 +17,12 @@ def process_json():
         json = request.get_json()
         print(json)
 
-        return f'\n\t\t{json}' #json['age'] will return just the age value
+        ip = json['server']
+        status = json['status']
+        network = json['network']
+        process = json['process']
+
+        return '\n\t\tServer: {}\n\t\t{}\n\t\t{}\n\t\t{}'.format(ip, status, network, process) #json['age'] will return just the age value
     else:
         return 'Content-Type is not supported!'
 

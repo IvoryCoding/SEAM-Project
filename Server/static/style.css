@@ -1,4 +1,111 @@
-body {
-    background: grey;
+body, html {
+    background: rgb(41, 41, 41);
     color: white;
+    height: 100%;
+    font-family: "Courier New", Courier, monospace;
+}
+
+.bgimg {
+    background-image: url('matix-bgk.jpg');
+    height: 100%;
+    background-position: center;
+    background-size: cover;
+    position: relative;
+    color: white;
+    font-size: 25px;
+}
+
+h1 {
+    color: rgb(50, 140, 71);
+}
+
+h1 a {
+    color: white
+}
+
+.status {
+    left: 30px;
+    padding-top: 40px;
+}
+
+.mem {
+    padding-left: 80px;
+    padding-right: 150px;
+    float: left;
+}
+
+.mem .mem-free {
+    color: rgb(58, 63, 222);
+}
+
+.disk {
+    float: left;
+    padding-top: 18px;
+}
+
+.cpu {
+    float: right;
+    padding-right: 170px;
+    padding-top: 40px;
+}
+
+.status p {
+    color: rgb(70, 184, 184);
+}
+
+.cpu .cpu-percent {
+    color: rgb(107, 47, 153);
+    font-size: 45px;
+}
+
+.serverlist {
+    color: rgb(50, 140, 71);
+}
+
+.topleft {
+    position: absolute;
+    top: 0;
+    left: 16px;
+    width: 100px;
+    height: 100px;
+    background-image: url("logo.png");
+}
+
+.middle {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    font-size: 20px;
+    color: rgb(50, 140, 71);
+    background: rgb(41, 41, 41);
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    opacity: 90%;
+
+}
+
+.middle a {
+    color: white;
+}
+
+hr {
+    margin: auto;
+    width: 40%;
+}
+
+.disk .disk-used, .disk .disk-total {
+    color: rgb(212, 173, 68);
+}
+
+.disk .disk-free {
+    color: rgb(212, 125, 68);
+}
+
+progress {
+    width: 500px;
+    accent-color: coral;
 }

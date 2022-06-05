@@ -2,14 +2,43 @@
 <html>
     <head>
         <link rel="stylesheet" href="/static/style.css" />
+        <link rel="stylesheet" href="/static/circle.css" />
     </head>
     <body>
-        <h1>Here you can see post data from running servers.</h1>
-        <div id="server1ip">
-            <h3>Server Ip:</h3>
-            <div id="status"></div>
-            <div id="network"></div>
-            <div id="processes"></div>
+        <h1>Back to the <a href="http://localhost:5000/">welcome</a> page</h1>
+        <div class="serverlist">
+            <div class="server1">
+                <h3>Server Ip:</h3>
+                <div class="status">
+                    <div class="mem">
+                        <div class="circle-wrap">
+                        <div class="circle">
+                            <div class="mask half">
+                                <div class="fill"></div>
+                            </div>
+                            <div class="mask full">
+                                <div class="fill"></div>
+                            </div>
+                            <div class="inside-circle"> 8000 Mb </div>
+                        </div>
+                    </div>
+                        <p class="mem-free">Free: 1000 Mb</p>
+                        <p class="mem-total">Total: 9000 Mb</p>
+                    </div>
+                    <div class="disk">
+                        <p class="disk-used">Used: 1 Gb</p>
+                        <progress value="1" max="4">25%</progress>
+                        <p class="disk-free">Free: 3 Gb</p>
+                        <progress value="3" max="4">75%</progress>
+                        <p class="disk-total">Total: 4 Gb</p>
+                    </div>
+                    <div class="cpu">
+                        <p class="cpu-percent">5%</p>
+                    </div>
+                </div>
+                <div class="network"></div>
+                <div class="processes"></div>
+            </div>
         </div>
     </body>
 </html>

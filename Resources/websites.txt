@@ -1,0 +1,3 @@
+https://stackoverflow.com/questions/16862627/json-stringify-output-to-div-in-pretty-print-way
+https://stackoverflow.com/questions/24393993/create-a-percentage-circle-with-css
+https://medium.com/@pppped/how-to-code-a-responsive-circular-percentage-chart-with-svg-and-css-3632f8cd7705

@@ -10,6 +10,7 @@ import time
 
 def getProcess():
     listOfPrcesses = list()
+    processDict = dict()
 
     for proc in psutil.process_iter():
         procDict = proc.as_dict(attrs=['pid', 'name', 'cpu_percent'])
@@ -18,5 +19,8 @@ def getProcess():
 
     listOfPrcesses = sorted(listOfPrcesses, key=lambda procObj: procObj['vms'], reverse=True)
 
+    for proc in listOfPrcesses:
+        processDict[proc['name']] = proc
+
     print("\n\t\t[+] Process module task complete. Sening data to server...")
-    return listOfPrcesses
+    return processDict

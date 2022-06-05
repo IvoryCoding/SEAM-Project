@@ -29,10 +29,10 @@ def tryPorts(ip, port):
     sock.close()
 
 # Gets open ports on current machine
-def getOpenPorts():
+def getOpenPorts(ip):
     #IP address of current machine
     #ip = whatismyip.whatismyipv4()
-    ip = '192.168.1.81'
+    #ip = '192.168.1.178'
 
     for port in range(0, 1024):
         thread = threading.Thread(target=tryPorts, args=(ip, port))
